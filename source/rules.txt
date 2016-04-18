@@ -1,0 +1,7 @@
+<html><br/>1.<b>Left Click</b>: You can left click the board to get the idea of how many mines are around you.<br/><br/>
+<html><br/>2. <b>Right Click</b>: You can mark an unexplored square as a mine, and a little flag will show out.<br/><br/>
+<html><br/>&nbsp&nbsp&nbsp You can change a flag mark to a question mark by right click that square again.<br/><br/>
+<html><br/>&nbsp&nbsp&nbsp Note that left click will be valid if there is a question mark.<br/><br/>
+<html><br/>&nbsp&nbsp&nbsp You can unmark a square with a flag by right click that square twice.<br/><br/>
+<html><br/>3. <b>Shortcut</b>: By employing the shortcut function, click(left/right click) a spot which is labeled by a number.<br/><br/><html><br/>&nbsp&nbsp&nbsp A shortcut will be applied if there is one.<br/><br/>
+<html><br/>4. <b>Meaning of Number</b>: Once left clicked an unexplored spot, a number will show out.<br/><br/> <html><br/>&nbsp&nbsp&nbsp It means the number of mines that are in the adjacent 8 squares to the square you have clicked.<br/><br/>

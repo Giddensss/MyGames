@@ -1,0 +1,2 @@
+<html><br>This Minesweeper is a Java version, <html><br/>which is developed by Chao Lin <html><br>at Union College, 2015.<html><br/>This project is not for commercial purpose.<br/><br/>
+All right reserved.
